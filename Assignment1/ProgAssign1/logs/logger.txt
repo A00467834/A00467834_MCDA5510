@@ -1,0 +1,33 @@
+10:19:42 PM Sunday, October 23, 2022
+  :Start execution of program
+-------------------------------
+10:19:42 PM Sunday, October 23, 2022
+  :Csv Reading begins
+-------------------------------
+10:20:34 PM Sunday, October 23, 2022
+  :skippedRecords: 81834
+-------------------------------
+10:20:34 PM Sunday, October 23, 2022
+  :Writing to output Csv begins
+-------------------------------
+10:20:34 PM Sunday, October 23, 2022
+  :52376 ms
+-------------------------------
+10:22:23 PM Sunday, October 23, 2022
+  :Start execution of program
+-------------------------------
+10:22:24 PM Sunday, October 23, 2022
+  :Csv Reading begins
+-------------------------------
+10:23:18 PM Sunday, October 23, 2022
+  :skipped Records: 81834
+-------------------------------
+10:23:18 PM Sunday, October 23, 2022
+  :Valid Records: 201075
+-------------------------------
+10:23:18 PM Sunday, October 23, 2022
+  :Writing to output Csv begins
+-------------------------------
+10:23:19 PM Sunday, October 23, 2022
+  :55499 ms
+-------------------------------

@@ -1,0 +1,128 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "CsvHelper/29.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/CsvHelper.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/CsvHelper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CsvHelper/29.0.0": {
+      "sha512": "xFuirk+7GbrGPM5u6shRDmFLHnPFTODEydI+Ed0mD1tJwpJeBPH6j668JhoAJglYt+EfhR/hQNGHPQ+RKjU6uA==",
+      "type": "package",
+      "path": "csvhelper/29.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "csvhelper.29.0.0.nupkg.sha512",
+        "csvhelper.nuspec",
+        "lib/net45/CsvHelper.dll",
+        "lib/net45/CsvHelper.xml",
+        "lib/net47/CsvHelper.dll",
+        "lib/net47/CsvHelper.xml",
+        "lib/net5.0/CsvHelper.dll",
+        "lib/net5.0/CsvHelper.xml",
+        "lib/net6.0/CsvHelper.dll",
+        "lib/net6.0/CsvHelper.xml",
+        "lib/netstandard2.0/CsvHelper.dll",
+        "lib/netstandard2.0/CsvHelper.xml",
+        "lib/netstandard2.1/CsvHelper.dll",
+        "lib/netstandard2.1/CsvHelper.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "CsvHelper >= 29.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\SMU\\Software-dev-5510\\.net assignment 1\\MCDA_5510_Assignment_directory\\A00467834_MCDA5510\\Assignment1\\ProgAssign1\\ProgAssign1.csproj",
+      "projectName": "ProgAssign1",
+      "projectPath": "D:\\SMU\\Software-dev-5510\\.net assignment 1\\MCDA_5510_Assignment_directory\\A00467834_MCDA5510\\Assignment1\\ProgAssign1\\ProgAssign1.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "D:\\SMU\\Software-dev-5510\\.net assignment 1\\MCDA_5510_Assignment_directory\\A00467834_MCDA5510\\Assignment1\\ProgAssign1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "CsvHelper": {
+            "target": "Package",
+            "version": "[29.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

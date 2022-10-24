@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "HS0LsfK3zEhf1/maCdnxT4IwC3CEOzK0UX24KGuuIESiOAruNtd6gQ61DlqC1TU/tiVufbS17qKFYoJRKvrLwg==",
+  "success": true,
+  "projectFilePath": "D:\\SMU\\Software-dev-5510\\.net assignment 1\\MCDA_5510_Assignment_directory\\A00467834_MCDA5510\\Assignment1\\ProgAssign1\\ProgAssign1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\csvhelper\\29.0.0\\csvhelper.29.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
