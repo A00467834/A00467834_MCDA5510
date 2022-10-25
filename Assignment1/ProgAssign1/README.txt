@@ -1,9 +1,7 @@
 Assignment #1
 -------------------------------------------------------------------
+# A00467834_MCDA5510
 
-The goal of the assignment is to simply combine 3 of these programs into a single
-program that will recursively read a series of data files in CSV format and enter 
-them into a single file.
+This project uses Csv helper library to parse through the csv files in the file directories. Then, the valid rows are identified by null checking all the column values and added to a new csv file along with a date column formed from the directory path. The execution time, invalid rows and valid rows are logged and the file missing and folder missing exceptions are handled.
 
-The program must log the amount of time it takes to read the files in each directory 
-and the time it takes to write the files to a file using the logger.
+To run the project, open the ProgAssign1.sln file and run the CsvCreator.cs file which contians the Main method.
